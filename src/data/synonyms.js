@@ -140,12 +140,148 @@ export const synonymMap = {
   'maske': ['identität', 'selbstwert'],
   'fassade': ['identität', 'selbstwert'],
 
+  // Glaubenssätze
+  'glaubenssatz': ['glaubenssatz', 'überzeugung'],
+  'glaubenssätze': ['glaubenssatz'],
+  'überzeugung': ['glaubenssatz'],
+  'ich kann nicht': ['glaubenssatz', 'selbstwert'],
+  'ich schaffe das nicht': ['glaubenssatz', 'selbstwert'],
+  'ich bin so': ['glaubenssatz', 'identität'],
+  'so bin ich halt': ['glaubenssatz', 'identität'],
+  'das geht bei mir nicht': ['glaubenssatz'],
+  'prägung': ['beziehung', 'prägung', 'glaubenssatz'],
+  'frühe erfahrung': ['beziehung', 'prägung', 'glaubenssatz'],
+  'reimprinting': ['glaubenssatz', 'prägung'],
+
+  // Innere Stimme
+  'innere stimme': ['innere stimme'],
+  'kritische stimme': ['innere stimme', 'selbstwert'],
+  'stimme im kopf': ['innere stimme'],
+  'negativer satz': ['innere stimme'],
+  'selbstgespräch': ['innere stimme', 'selbstwert'],
+  'es flüstert': ['innere stimme'],
+
+  // Allergie / Psychosomatik
+  'allergie': ['allergie'],
+  'allergisch': ['allergie'],
+  'heuschnupfen': ['allergie'],
+  'immunsystem': ['allergie'],
+  'körperliche reaktion': ['allergie'],
+  'psychosomatisch': ['allergie', 'burnout'],
+  'überreaktion': ['allergie', 'angst'],
+
+  // Emotionale Abhängigkeit
+  'klammern': ['abhängigkeit', 'beziehung'],
+  'co-abhängig': ['abhängigkeit'],
+  'symbiotisch': ['abhängigkeit'],
+  'brauche diese person': ['abhängigkeit'],
+  'nicht loslassen': ['abhängigkeit', 'trauer', 'beziehung'],
+  'enmeshment': ['abhängigkeit'],
+  'verstrickung': ['abhängigkeit', 'beziehung'],
+
+  // Kreativität & Planung
+  'kreativität': ['kreativität'],
+  'kreativ': ['kreativität'],
+  'keine ideen': ['kreativität'],
+  'ideen': ['kreativität'],
+  'planung': ['kreativität', 'prokrastination'],
+  'entscheidung treffen': ['kreativität', 'innerer konflikt'],
+  'wie soll ich entscheiden': ['kreativität', 'innerer konflikt'],
+
+  // Werte
+  'werte': ['werte'],
+  'prioritäten': ['werte'],
+  'was ist wichtig': ['werte', 'identität'],
+  'wertekonflikt': ['werte', 'innerer konflikt'],
+  'falsche prioritäten': ['werte'],
+
+  // Neues Verhalten
+  'ich weiß nicht wie': ['neues-verhalten'],
+  'neue fähigkeit': ['neues-verhalten'],
+  'kompetenz': ['neues-verhalten', 'selbstwert'],
+  'auftritt': ['ressourcen', 'angst'],
+  'präsentation': ['ressourcen', 'angst', 'prüfungsangst'],
+  'vorbereitung': ['ressourcen'],
+
   // Körperliche Beschwerden mit psychischem Hintergrund
   'magenprobleme': ['angst', 'burnout'],
   'kopfschmerzen': ['stress', 'burnout', 'angst'],
   'verspannung': ['stress', 'burnout', 'trauma'],
-  'schlafprobleme': ['angst', 'burnout', 'trauma', 'depression'],
-  'schlaflosigkeit': ['angst', 'burnout', 'trauma'],
+  'schlafprobleme': ['schlaf', 'angst', 'burnout', 'trauma', 'depression'],
+  'schlaflosigkeit': ['schlaf', 'angst', 'burnout', 'trauma'],
+  'einschlafen': ['schlaf'],
+  'einschlafstörung': ['schlaf'],
+  'nachts wach': ['schlaf'],
+  'nicht abschalten': ['schlaf', 'burnout'],
+  'gedankenkarussell': ['schlaf', 'zwang', 'angst'],
+
+  // Reframing & Bedeutung
+  'bedeutung': ['reframing', 'glaubenssatz'],
+  'rahmen': ['reframing'],
+  'perspektive': ['reframing', 'innerer konflikt'],
+  'sichtweise': ['reframing'],
+  'es bedeutet': ['reframing', 'glaubenssatz'],
+  'interpretation': ['reframing'],
+  'ich bin zu': ['reframing', 'selbstwert'],
+
+  // Selbstbild & Kritik
+  'selbstbild': ['selbstbild', 'selbstwert'],
+  'kritik annehmen': ['selbstbild', 'selbstwert'],
+  'autoritätsangst': ['selbstbild'],
+  'chef': ['selbstbild', 'angst'],
+  'vorgesetzter': ['selbstbild', 'angst'],
+  'zu hilfsbereit': ['selbstbild'],
+  'nein sagen': ['selbstbild', 'abhängigkeit'],
+  'nörgelstimme': ['innere stimme', 'selbstbild'],
+  'innerer nörgler': ['innere stimme', 'selbstbild'],
+
+  // Submodalitäten
+  'bilder loswerden': ['submodalitäten'],
+  'peinliche erinnerung': ['submodalitäten'],
+  'belastende bilder': ['submodalitäten', 'trauma'],
+  'innere bilder verändern': ['submodalitäten'],
+  'rückwärts': ['submodalitäten'],
+
+  // Motivation & Ziele
+  'ziel': ['motivation-ziele', 'kreativität'],
+  'vorsatz': ['motivation-ziele', 'prokrastination'],
+  'nicht umsetzen': ['motivation-ziele', 'prokrastination'],
+  'aufscheben': ['prokrastination', 'motivation-ziele'],
+  'zukunft gestalten': ['motivation-ziele', 'timeline'],
+  'antrieb fehlt': ['motivation-ziele', 'burnout'],
+
+  // Timeline
+  'zeitlinie': ['timeline', 'glaubenssatz'],
+  'vergangenheit loslassen': ['timeline', 'trauma'],
+  'muster durch leben': ['timeline', 'beziehung'],
+  'prägung': ['timeline', 'beziehung', 'glaubenssatz'],
+  'zukunftsangst': ['timeline', 'angst'],
+
+  // Trance & Hypnose
+  'trance': ['trance'],
+  'hypnose': ['trance'],
+  'entspannung': ['trance', 'ressourcen'],
+  'tiefenentspannung': ['trance'],
+  'unbewusstes': ['trance', 'innere teile'],
+  'unbewusst': ['trance', 'innere teile'],
+
+  // Innere Teile
+  'innere teile': ['innere teile'],
+  'persönlichkeitsanteil': ['innere teile'],
+  'ein teil von mir': ['innere teile', 'innerer konflikt'],
+  'widersprüchliche teile': ['innere teile', 'innerer konflikt'],
+
+  // Anker
+  'anker': ['anker-ressourcen'],
+  'zustand abrufen': ['anker-ressourcen', 'ressourcen'],
+  'automatisch reagieren': ['anker-ressourcen', 'zwang'],
+
+  // Familie & Herkunft
+  'familienaufstellung': ['innere teile', 'beziehung'],
+  'herkunftsfamilie': ['timeline', 'beziehung'],
+  'stammbaum': ['timeline', 'beziehung'],
+  'transgenerational': ['timeline', 'beziehung'],
+  'familienmuster': ['timeline', 'beziehung', 'innere teile'],
 };
 
 // Normalisiert einen Eingabestring für den Vergleich
