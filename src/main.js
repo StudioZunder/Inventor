@@ -32,7 +32,7 @@ function render() {
 function buildHTML() {
   return `
     <header class="app-header">
-      <img src="inventor-logo.webp" alt="Inventor" class="app-logo" />
+      <img src="inventor-logo.webp" alt="Inventor" class="app-logo" id="btn-logo-home" />
     </header>
 
     ${buildSearchScreen()}
@@ -277,6 +277,9 @@ function attachEvents() {
       if (intervention) startSession(intervention);
     });
   });
+
+  const logoHome = document.getElementById('btn-logo-home');
+  if (logoHome) logoHome.addEventListener('click', goToSearch);
 
   const backToSearch = document.getElementById('btn-back-to-search');
   if (backToSearch) backToSearch.addEventListener('click', goToSearch);

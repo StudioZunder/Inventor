@@ -46,6 +46,7 @@ body {
   height: 40px;
   width: auto;
   display: block;
+  cursor: pointer;
 }
 
 /* Screens */
