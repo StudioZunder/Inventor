@@ -2,7 +2,7 @@ export const interventions = [
   {
     id: 'phobietechnik',
     titel: 'Phobietechnik',
-    quelle: 'Richard Bandler',
+    quelle: 'Nach (Richard Bandler)',
     kurzbeschreibung: 'Löst spezifische Phobien über Ressourcen und Submodalitäten. Geeignet bei schnell aufbauenden Angstreaktionen auf einen bestimmten Auslöser.',
     indikation: 'Spezifische Phobien, Angstreaktionen mit klarem Auslösereiz, leichte bis mittlere Angst',
     dauer: '15–25 Min.',
@@ -43,7 +43,7 @@ export const interventions = [
   {
     id: 'phobietechnik-ressource',
     titel: 'Phobietechnik mit Ressource',
-    quelle: 'Richard Bandler & John Grinder',
+    quelle: 'Nach (Richard Bandler & John Grinder)',
     kurzbeschreibung: 'Intensive Technik für starke Phobien und traumatische Reaktionen. Arbeitet mit Dissoziation und einem Ressourceanker. Geeignet auch für PTBS-ähnliche Reaktionen.',
     indikation: 'Starke Phobien, Trauma, PTBS, Flashbacks, Missbrauchserinnerungen, Unfallerinnerungen',
     dauer: '25–40 Min.',
@@ -102,7 +102,7 @@ export const interventions = [
   {
     id: 'changing-history',
     titel: 'Changing History',
-    quelle: 'Richard Bandler & John Grinder',
+    quelle: 'Nach (Richard Bandler & John Grinder)',
     kurzbeschreibung: 'Verändert die emotionale Reaktion auf vergangene Erlebnisse, indem Ressourcen in die Erinnerung integriert werden. Für wiederkehrende belastende Reaktionen.',
     indikation: 'Belastende Erinnerungen, wiederkehrende emotionale Reaktionen, Prägungen aus der Kindheit, Beziehungsmuster',
     dauer: '20–35 Min.',
@@ -161,7 +161,7 @@ export const interventions = [
   {
     id: 'sixstep-reframing',
     titel: 'Sixstep-Reframing',
-    quelle: 'Richard Bandler & John Grinder',
+    quelle: 'Nach (Richard Bandler & John Grinder)',
     kurzbeschreibung: 'Arbeitet mit dem unbewussten Teil, der ein ungewünschtes Verhalten hervorbringt. Findet neue Wege, die positive Absicht des Verhaltens zu erfüllen.',
     indikation: 'Ungewünschte Gewohnheiten, Zwänge, innere Konflikte, Selbstsabotage, ambivalentes Verhalten',
     dauer: '30–50 Min.',
@@ -214,7 +214,7 @@ export const interventions = [
   {
     id: 'core-transformation',
     titel: 'Core-Transformation',
-    quelle: 'Connirae & Tamara Andreas',
+    quelle: 'Nach (Connirae & Tamara Andreas)',
     kurzbeschreibung: 'Tiefe Transformation durch das Erkunden von Ergebnisketten bis zum "Core-Zustand" – einem tiefen Sein-Zustand. Ideal bei fundamentalen Identitätsfragen.',
     indikation: 'Tiefe Selbstwertprobleme, innere Leere, Sinnlosigkeit, Depression, Identitätskrisen, Gefühl unvollständig zu sein',
     dauer: '45–75 Min.',
@@ -279,7 +279,7 @@ export const interventions = [
   {
     id: 'mentoren-technik',
     titel: 'Mentoren-Technik',
-    quelle: 'Alexa Mohl',
+    quelle: 'Nach (Alexa Mohl)',
     kurzbeschreibung: 'Aktiviert innere Ressourcen durch symbolische Mentoren-Figuren. Klient findet eigene Unterstützung in der Phantasie. Für Selbstwert, Motivation und kreative Lösungen.',
     indikation: 'Mangelndes Selbstvertrauen, fehlende Ressourcen, Erschöpfung, Burnout, Entscheidungsunsicherheit, Kraftlosigkeit',
     dauer: '25–40 Min.',
@@ -332,7 +332,7 @@ export const interventions = [
   {
     id: 'fastphobia',
     titel: 'Fastphobia',
-    quelle: 'Richard Bandler',
+    quelle: 'Nach (Richard Bandler)',
     kurzbeschreibung: 'Schnelle Phobietechnik über doppelte Dissoziation und Filmrücklauf. Besonders geeignet wenn wenig Zeit bleibt oder die Phobie intensiv ist.',
     indikation: 'Starke Phobien, intensive Angstreaktionen, wenn wenig Zeit vorhanden ist',
     dauer: '10–20 Min.',
@@ -350,7 +350,7 @@ export const interventions = [
   {
     id: 'reimprinting',
     titel: 'Reimprinting',
-    quelle: 'Robert Dilts',
+    quelle: 'Nach (Robert Dilts)',
     kurzbeschreibung: 'Verarbeitung früher prägender Erlebnisse, die limitierende Glaubenssätze erzeugt haben. Ressourcen werden rückwirkend in die Prägung integriert.',
     indikation: 'Limitierende Glaubenssätze aus der Kindheit, frühe Prägungen, einschränkende Überzeugungen über sich selbst',
     dauer: '45–70 Min.',
@@ -373,7 +373,7 @@ export const interventions = [
   {
     id: 'allergie-prozess',
     titel: 'Der Allergie-Prozess',
-    quelle: 'Robert Dilts',
+    quelle: 'Nach (Robert Dilts)',
     kurzbeschreibung: 'Umschulung des Immunsystems bei allergischen Reaktionen durch Dissoziation und Ressourcenintegration. Auch für psychosomatische Überreaktionen geeignet.',
     indikation: 'Allergien, psychosomatische Reaktionen, körperliche Überreaktionen auf harmlose Reize',
     dauer: '30–45 Min.',
@@ -394,7 +394,7 @@ export const interventions = [
   {
     id: 'trauerarbeit',
     titel: 'Trauerarbeit',
-    quelle: 'Connirae & Steve Andreas',
+    quelle: 'Nach (Connirae & Steve Andreas)',
     kurzbeschreibung: 'Transformation von Trauer in wertvolle Erinnerungen. Die Verbindung zu dem Verlorenen wird neu gestaltet – nicht abgeschnitten, sondern verwandelt.',
     indikation: 'Trauer, Verlust, Abschied, Tod nahestehender Menschen',
     dauer: '30–50 Min.',
@@ -417,7 +417,7 @@ export const interventions = [
   {
     id: 'traumata-technik',
     titel: 'Traumata-Technik',
-    quelle: 'Connirae & Steve Andreas',
+    quelle: 'Nach (Connirae & Steve Andreas)',
     kurzbeschreibung: 'Für wiederholte traumatische Erlebnisse. Das Unbewusste arbeitet auf einer tieferen Ebene: unangenehme Erlebnisse werden dissoziiert, angenehme assoziiert neu kodiert.',
     indikation: 'Wiederholt traumatische Erlebnisse, schwere Traumageschichte, anhaltende PTBS',
     dauer: '40–60 Min.',
@@ -435,7 +435,7 @@ export const interventions = [
   {
     id: 'abhaengigkeit-aufloesen',
     titel: 'Abhängigkeit auflösen',
-    quelle: 'Connirae Andreas & Robert McDonald',
+    quelle: 'Nach (Connirae Andreas & Robert McDonald)',
     kurzbeschreibung: 'Löst ungesunde symbiotische Bindungen auf und entwickelt Selbstverbundenheit. Das zukünftige Selbst übernimmt die Ressourcen, die bisher von außen gesucht wurden.',
     indikation: 'Emotionale Abhängigkeit, Klammern, Co-Abhängigkeit, übermäßige Bindung an Eltern oder Partner',
     dauer: '35–55 Min.',
@@ -456,7 +456,7 @@ export const interventions = [
   {
     id: 'decision-destroyer',
     titel: 'Decision Destroyer',
-    quelle: 'Connirae & Steve Andreas',
+    quelle: 'Nach (Connirae & Steve Andreas)',
     kurzbeschreibung: 'Löst ungewünschte Verhaltensweisen auf, die auf traumatischen Erlebnissen oder prägenden Entscheidungen basieren. Ressourcen werden rückwirkend integriert.',
     indikation: 'Verhaltensweisen die aus einem Trauma oder einer alten Entscheidung stammen, wiederkehrende Reaktionsmuster',
     dauer: '30–50 Min.',
@@ -474,7 +474,7 @@ export const interventions = [
   {
     id: 'swish-muster',
     titel: 'Swish-Muster',
-    quelle: 'Robert McDonald',
+    quelle: 'Nach (Robert McDonald)',
     kurzbeschreibung: 'Verändert einschränkende innere Sätze und Selbstgespräche durch einen auditiven Überblendungsprozess. Besonders wirksam bei negativen inneren Stimmen.',
     indikation: 'Negative innere Stimme, einschränkende Selbstgespräche, deprimierende innere Sätze, Selbstkritik',
     dauer: '15–25 Min.',
@@ -494,7 +494,7 @@ export const interventions = [
   {
     id: 'new-behavior-generator',
     titel: 'New Behavior Generator',
-    quelle: 'NLP – Standardformat',
+    quelle: 'Nach (NLP – Standardformat)',
     kurzbeschreibung: 'Installiert ein neues Verhalten durch inneres Modellieren und schrittweise Assoziation. Ideal wenn der Klient weiß was er erreichen will, aber noch nicht wie.',
     indikation: 'Neues Verhalten erlernen, soziale Kompetenz aufbauen, Hemmungen überwinden, Selbstsicherheit entwickeln',
     dauer: '20–35 Min.',
@@ -513,7 +513,7 @@ export const interventions = [
   {
     id: 'wertewandel-i',
     titel: 'Wertewandel I',
-    quelle: 'NLP – Standardformat',
+    quelle: 'Nach (NLP – Standardformat)',
     kurzbeschreibung: 'Verändert die persönliche Wertehierarchie durch submodale Umgestaltung. Ein Wert erhält eine neue Position in der inneren Rangfolge.',
     indikation: 'Wertekonflikte, falsche Prioritäten, Selbstsabotage durch Wertehierarchie, innere Zerrissenheit',
     dauer: '25–40 Min.',
@@ -532,7 +532,7 @@ export const interventions = [
   {
     id: 'wertewandel-ii',
     titel: 'Wertewandel II',
-    quelle: 'NLP – Standardformat',
+    quelle: 'Nach (NLP – Standardformat)',
     kurzbeschreibung: 'Tiefere Werteveränderung durch Mapping Across der Submodalitäten. Zwei Werte tauschen ihre innere Kodierung.',
     indikation: 'Wenn Wertewandel I nicht ausreicht, tiefe Wertekonflikte, hartnäckige Selbstsabotage',
     dauer: '30–45 Min.',
@@ -551,7 +551,7 @@ export const interventions = [
   {
     id: 'circle-of-excellence',
     titel: 'Circle of Excellence',
-    quelle: 'NLP – Standardformat',
+    quelle: 'Nach (NLP – Standardformat)',
     kurzbeschreibung: 'Erstellt einen zuverlässig abrufbaren Ressourcezustand durch einen imaginierten Kreis auf dem Boden. Ideal als Vorbereitung auf herausfordernde Situationen.',
     indikation: 'Ressourcen aufbauen, Selbstvertrauen vor herausfordernden Situationen, Prüfungsangst, Auftrittsangst',
     dauer: '20–35 Min.',
@@ -573,7 +573,7 @@ export const interventions = [
   {
     id: 'walt-disney-strategie',
     titel: 'Walt-Disney-Strategie',
-    quelle: 'Robert Dilts',
+    quelle: 'Nach (Robert Dilts)',
     kurzbeschreibung: 'Drei Perspektiven für kreative Problemlösung: Träumer, Realist, Kritiker. Ideal für Entscheidungen, Planung und kreative Blockaden.',
     indikation: 'Kreative Blockaden, Entscheidungen, Planung, wenn Ideen fehlen oder Umsetzung stockt',
     dauer: '25–40 Min.',
@@ -592,7 +592,7 @@ export const interventions = [
   {
     id: 'verhandlungsmodell',
     titel: 'Verhandlungsmodell',
-    quelle: 'NLP – Standardformat',
+    quelle: 'Nach (NLP – Standardformat)',
     kurzbeschreibung: 'Löst innere Konflikte durch eine Verhandlung zwischen zwei sich widersprechenden Anteilen. Beide Teile behalten ihre Funktion, stören sich aber nicht mehr gegenseitig.',
     indikation: 'Innere Konflikte, Ambivalenz, zwei Anteile die sich blockieren, wenn Sixstep-Reframing nicht ausreicht',
     dauer: '25–40 Min.',
@@ -609,7 +609,7 @@ export const interventions = [
   {
     id: 'glaubensveraenderungsprozess',
     titel: 'Glaubensveränderungsprozess im Gehen',
-    quelle: 'Robert Dilts & Tim McDonald',
+    quelle: 'Nach (Robert Dilts & Tim McDonald)',
     kurzbeschreibung: 'Transformiert einen einschränkenden Glaubenssatz in einen unterstützenden durch sechs Bodenpositionen. Der Körper geht den Weg der Veränderung buchstäblich ab.',
     indikation: 'Limitierende Glaubenssätze, "ich kann nicht", "ich bin nicht gut genug", einschränkende Überzeugungen über sich selbst',
     dauer: '30–50 Min.',
@@ -629,7 +629,7 @@ export const interventions = [
   {
     id: 'bedeutungsreframing',
     titel: 'Bedeutungsreframing',
-    quelle: 'Richard Bandler',
+    quelle: 'Nach (Richard Bandler)',
     kurzbeschreibung: 'Verändert die Bedeutung einer einschränkenden Aussage durch einen neuen Deutungsrahmen. Geeignet für Klagen der Form "Ich fühle mich Y, wenn X passiert."',
     indikation: 'Einschränkende Interpretationen, negative Bedeutungszuschreibungen, automatische Bewertungen',
     dauer: '10–20 Min.',
@@ -645,7 +645,7 @@ export const interventions = [
   {
     id: 'kontextreframing',
     titel: 'Kontextreframing',
-    quelle: 'Richard Bandler',
+    quelle: 'Nach (Richard Bandler)',
     kurzbeschreibung: 'Verändert Verallgemeinerungen durch Kontextbezug. Geeignet für Klagen der Form "Ich bin zu Z!" – also für zu generelle negative Selbstaussagen.',
     indikation: 'Zu verallgemeinernde Selbstkritik, negative Identitätsaussagen, "Ich bin zu sensibel/empfindlich/laut"',
     dauer: '10–20 Min.',
@@ -661,7 +661,7 @@ export const interventions = [
   {
     id: 'sleight-of-mouth',
     titel: 'Sleight of Mouth',
-    quelle: 'Robert Dilts',
+    quelle: 'Nach (Robert Dilts)',
     kurzbeschreibung: 'Erschüttert einschränkende Glaubenssätze durch 14 sprachliche Muster. Ideal zur Gruppenübung oder als Gesprächswerkzeug beim Coaching.',
     indikation: 'Einschränkende Glaubenssätze, starre Überzeugungen, "Wenn A, dann B"-Muster',
     dauer: '30–60 Min.',
@@ -676,7 +676,7 @@ export const interventions = [
   {
     id: 'zielkonkretisierung',
     titel: 'Zielkonkretisierung',
-    quelle: 'Achim Mohl',
+    quelle: 'Nach (Achim Mohl)',
     kurzbeschreibung: 'Präzisiert Ziele durch vollständige mentale Repräsentation: Evidenzprozedur, Kontextbestimmung und VAKO-Hypnose. Grundlage für jede zielorientierte Arbeit.',
     indikation: 'Unklare Ziele, Orientierungslosigkeit, fehlende Motivation, Vorbereitung auf andere Interventionen',
     dauer: '20–35 Min.',
@@ -694,7 +694,7 @@ export const interventions = [
   {
     id: 'anker-kollabieren',
     titel: 'Anker kollabieren',
-    quelle: 'Richard Bandler & John Grinder',
+    quelle: 'Nach (Richard Bandler & John Grinder)',
     kurzbeschreibung: 'Integriert zwei gegensätzliche Gefühlszustände durch simultanes Feuern zweier Anker. Schafft Zugang zu neuen Reaktionsmöglichkeiten in konfliktreichen Situationen.',
     indikation: 'Innere Gegensätze, ambivalente Gefühle, Teilekonflikt, festgefahrene Reaktionsmuster',
     dauer: '15–25 Min.',
@@ -710,7 +710,7 @@ export const interventions = [
   {
     id: 'anker-verketten',
     titel: 'Anker verketten',
-    quelle: 'Richard Bandler & John Grinder',
+    quelle: 'Nach (Richard Bandler & John Grinder)',
     kurzbeschreibung: 'Baut eine automatische Zustandskette vom unerwünschten Zustand zum gewünschten Zustand. Der Klient kann zukünftig automatisch umschalten.',
     indikation: 'Unerwünschte automatische Reaktionen, Angst, Blockaden, Lampenfieber, ungewollte Gewohnheiten',
     dauer: '20–35 Min.',
@@ -729,7 +729,7 @@ export const interventions = [
   {
     id: 'verdeckt-ankern',
     titel: 'Verdeckt Ankern',
-    quelle: 'Richard Bandler & John Grinder',
+    quelle: 'Nach (Richard Bandler & John Grinder)',
     kurzbeschreibung: 'Setzt Anker durch nicht bewusst wahrgenommene Signale (Räuspern, Takt klopfen). Besonders geeignet für Erinnerungshilfen und unauffällige Zustandsveränkerung.',
     indikation: 'Unterstützung bei Blockadesituationen, Erinnerungshilfe, Ressourcenverankerung ohne formellen Prozess',
     dauer: '10–20 Min.',
@@ -744,7 +744,7 @@ export const interventions = [
   {
     id: 'gesundsein-erleben',
     titel: 'Gesundsein erleben',
-    quelle: 'Achim Mohl',
+    quelle: 'Nach (Achim Mohl)',
     kurzbeschreibung: 'Überträgt die Submodalitäten einer tiefen Gesundheitserfahrung auf eine allergische oder körperlich belastete Situation. Ergänzt den Allergie-Prozess.',
     indikation: 'Allergien, psychosomatische Reaktionen, körperliche Überreaktionen',
     dauer: '20–30 Min.',
@@ -760,7 +760,7 @@ export const interventions = [
   {
     id: 'integration-zweier-physiologien',
     titel: 'Integration zweier dissoziierter Physiologien',
-    quelle: 'Thies Stahl',
+    quelle: 'Nach (Thies Stahl)',
     kurzbeschreibung: 'Kombiniert zwei gegensätzliche Kompetenzen oder Körperzustände durch Ankerkollabieren. Geeignet, wenn ein Klient in verschiedenen Kontexten sehr unterschiedlich reagiert.',
     indikation: 'Dissoziation zwischen Kontexten, gegensätzliche Fähigkeiten integrieren, Kongruenz herstellen',
     dauer: '25–40 Min.',
@@ -779,7 +779,7 @@ export const interventions = [
   {
     id: 'umgang-mit-noerglerstimme',
     titel: 'Umgang mit der Nörglerstimme',
-    quelle: 'Sixstep-Reframing-Variante',
+    quelle: 'Nach (Sixstep-Reframing-Variante)',
     kurzbeschreibung: 'Verändert selbstkritische innere Stimmen durch Erarbeitung ihrer positiven Absicht. Der innere Kritiker wird zum konstruktiven Begleiter.',
     indikation: 'Innerer Kritiker, selbstkritische Stimmen, Selbstangriffe, Nörgeln gegen sich selbst',
     dauer: '20–35 Min.',
@@ -796,7 +796,7 @@ export const interventions = [
   {
     id: 'reimprinting-zeitlinie-eltern',
     titel: 'Reimprinting der Zeitlinie der Eltern',
-    quelle: 'Connirae und Tamara Andreas',
+    quelle: 'Nach (Connirae und Tamara Andreas)',
     kurzbeschreibung: 'Überträgt Core-Zustände durch die Stammlinie bis zu den Großeltern und zurück. Heilt transgenerationale Muster und Blockaden.',
     indikation: 'Familienmuster, transgenerationale Prägungen, Blockaden aus der Herkunftsfamilie, tiefe Glaubenssätze aus der Kindheit',
     dauer: '60–90 Min.',
@@ -817,7 +817,7 @@ export const interventions = [
   {
     id: 'teile-bauen',
     titel: 'Teile bauen',
-    quelle: 'Richard Bandler & John Grinder',
+    quelle: 'Nach (Richard Bandler & John Grinder)',
     kurzbeschreibung: 'Erschafft einen neuen Persönlichkeitsanteil für eine neue Fähigkeit. Durch kreative Phantasiearbeit und Ökologie-Check wird der neue Teil nachhaltig integriert.',
     indikation: 'Neue Fähigkeiten erwerben, Kompetenzaufbau, neues Verhalten verankern',
     dauer: '30–50 Min.',
@@ -836,7 +836,7 @@ export const interventions = [
   {
     id: 'familienaufstellung',
     titel: 'Familienaufstellung (NLP)',
-    quelle: 'Wolfgang Lenk',
+    quelle: 'Nach (Wolfgang Lenk)',
     kurzbeschreibung: 'Arbeitet mit inneren Repräsentationen des Familiensystems durch Kommunikation mit dem Unbewussten. Löst Verstrickungen und Muster ohne externe Stellvertreter.',
     indikation: 'Familienmuster, Verstrickungen, Loyalitätskonflikte, Prägungen durch Herkunftsfamilie',
     dauer: '40–70 Min.',
@@ -852,7 +852,7 @@ export const interventions = [
   {
     id: 'phobietechnik-entscheidungspunkt',
     titel: 'Phobietechnik mit Entscheidungspunkt',
-    quelle: 'Richard Bandler',
+    quelle: 'Nach (Richard Bandler)',
     kurzbeschreibung: 'Erweitert die klassische Phobietechnik um einen eingebauten Entscheidungspunkt: Der Klient prüft, ob eine Situation wirklich gefährlich ist, bevor eine Angstreaktion einsetzt.',
     indikation: 'Angststörungen, überschießende Angstreaktionen, Situationen ohne reale Gefahr',
     dauer: '20–35 Min.',
@@ -868,7 +868,7 @@ export const interventions = [
   {
     id: 'umgang-mit-kritik',
     titel: 'Umgang mit Kritik',
-    quelle: 'Richard Bandler',
+    quelle: 'Nach (Richard Bandler)',
     kurzbeschreibung: 'Vermittelt einen dissoziierten, konstruktiven Umgang mit Kritik durch Beobachten des eigenen Reaktionsmusters von außen.',
     indikation: 'Übermäßige Empfindlichkeit auf Kritik, Selbstwertverlust durch Feedback, defensives Verhalten',
     dauer: '20–35 Min.',
@@ -887,7 +887,7 @@ export const interventions = [
   {
     id: 'selbstbildarbeit',
     titel: 'Selbstbildarbeit',
-    quelle: 'Richard Bandler',
+    quelle: 'Nach (Richard Bandler)',
     kurzbeschreibung: 'Verbessert das negative Selbstbild durch Veränderung visueller und auditiver Submodalitäten. Klient gestaltet sein inneres Bild von sich selbst aktiv um.',
     indikation: 'Negatives Selbstbild, mangelndes Selbstbewusstsein, verzerrte Selbstwahrnehmung',
     dauer: '15–25 Min.',
@@ -903,7 +903,7 @@ export const interventions = [
   {
     id: 'dissoziationstherapie',
     titel: 'Dissoziationstherapie',
-    quelle: 'Richard Bandler',
+    quelle: 'Nach (Richard Bandler)',
     kurzbeschreibung: 'Mildert belastende Erinnerungen durch räumliche Distanzierung. Der Klient wechselt von assoziierter zu dissoziierter Wahrnehmung und erlebt den Unterschied.',
     indikation: 'Belastende Erinnerungen, emotionale Überflutung, schwere Erfahrungen, die noch schmerzen',
     dauer: '15–25 Min.',
@@ -917,7 +917,7 @@ export const interventions = [
   {
     id: 'standpunktwechsel',
     titel: 'Standpunktwechsel',
-    quelle: 'Richard Bandler',
+    quelle: 'Nach (Richard Bandler)',
     kurzbeschreibung: 'Gewinnt neue Perspektiven auf Konflikte durch das Einnehmen anderer Standpunkte. Fördert Verständnis und reduziert Starre im eigenen Erleben.',
     indikation: 'Konflikte, Schwierigkeiten beim Perspektivwechsel, "Ich habe recht"-Positionen, Verständnisprobleme',
     dauer: '15–25 Min.',
@@ -931,7 +931,7 @@ export const interventions = [
   {
     id: 'mapping-across',
     titel: 'Mapping Across',
-    quelle: 'Richard Bandler',
+    quelle: 'Nach (Richard Bandler)',
     kurzbeschreibung: 'Überträgt die Submodalitäten eines ressourcevollen Zustands auf eine Problemsituation. Verändert das Erleben durch systematische Qualitätsanpassung.',
     indikation: 'Situationen, in denen Ressourcen fehlen, negative Grundhaltung in bestimmten Kontexten',
     dauer: '15–25 Min.',
@@ -946,7 +946,7 @@ export const interventions = [
   {
     id: 'synaesthesiewechsel',
     titel: 'Synästhesiewechsel',
-    quelle: 'David Gordon',
+    quelle: 'Nach (David Gordon)',
     kurzbeschreibung: 'Verändert problematische Gefühle durch Wechsel in ein anderes Repräsentationssystem. Ein belastendes Körpergefühl wird in ein Bild oder einen Klang übersetzt und dort verändert.',
     indikation: 'Problematische Körpergefühle, chronische Spannungen, diffuse emotionale Belastung',
     dauer: '15–25 Min.',
@@ -963,7 +963,7 @@ export const interventions = [
   {
     id: 'ultrakurzzeittherapie',
     titel: 'Ultrakurzzeittherapie',
-    quelle: 'Richard Bandler',
+    quelle: 'Nach (Richard Bandler)',
     kurzbeschreibung: 'Wandelt peinliche oder belastende Erinnerungen durch Unterlegung mit Zirkusmusik in Komödien um. Kurze, niedrigschwellige Technik für leichtere Belastungen.',
     indikation: 'Peinliche Erinnerungen, Enttäuschungen, leichtere emotionale Belastungen, Selbstironie stärken',
     dauer: '5–10 Min.',
@@ -977,7 +977,7 @@ export const interventions = [
   {
     id: 'umkehrtherapie',
     titel: 'Umkehrtherapie',
-    quelle: 'Richard Bandler',
+    quelle: 'Nach (Richard Bandler)',
     kurzbeschreibung: 'Verfremdet belastende Erinnerungen durch schnelles Rückwärtsablaufen. Die Erinnerung verliert durch die Umkehrung ihre emotionale Ladung.',
     indikation: 'Belastende Erinnerungen, emotionale Nachwirkungen, hartnäckige Gedankenschleifen',
     dauer: '5–15 Min.',
@@ -991,7 +991,7 @@ export const interventions = [
   {
     id: 'reframing-mit-submodalitaeten',
     titel: 'Reframing mit Submodalitäten',
-    quelle: 'Connirae und Steve Andreas',
+    quelle: 'Nach (Connirae und Steve Andreas)',
     kurzbeschreibung: 'Legt einen goldenen Barockrahmen um eine problematische Erinnerung. Die neue Rahmung verändert die Bedeutung und erzeugt emotionale Distanz.',
     indikation: 'Problematische Erinnerungen und Erfahrungen, fehlende Distanz zu negativen Erlebnissen',
     dauer: '10–15 Min.',
@@ -1005,7 +1005,7 @@ export const interventions = [
   {
     id: 'godiva-chocolate',
     titel: 'Godiva-Chocolate-Muster',
-    quelle: 'Richard Bandler',
+    quelle: 'Nach (Richard Bandler)',
     kurzbeschreibung: 'Verknüpft eine ungeliebte Pflicht mit einem intensiv genussvollen Bild durch schnelle Bildwechsel. Die Pflicht beginnt sich wie ein Genuss anzufühlen.',
     indikation: 'Aufgaben, die erledigt werden müssen aber keinen Spaß machen; Motivation für lästige Tätigkeiten',
     dauer: '10–20 Min.',
@@ -1021,7 +1021,7 @@ export const interventions = [
   {
     id: 'change-history-submodalitaeten',
     titel: 'Change History mit Submodalitäten',
-    quelle: 'Richard Bandler',
+    quelle: 'Nach (Richard Bandler)',
     kurzbeschreibung: 'Verändert ein durchgängiges einschränkendes Gefühl, das in vielen Situationen auftaucht, durch systematischen Submodalitäten-Transfer.',
     indikation: 'Wiederkehrende negative Gefühle in verschiedenen Kontexten, tief verankerte emotionale Muster',
     dauer: '25–40 Min.',
@@ -1040,7 +1040,7 @@ export const interventions = [
   {
     id: 'sich-trauen',
     titel: 'Sich trauen',
-    quelle: 'Richard Bandler',
+    quelle: 'Nach (Richard Bandler)',
     kurzbeschreibung: 'Überwindet ein einschränkendes Gefühl durch Verkettung dreier Anker: Abschwächung des Problemzustands, Ressourceanker und Intensivierungsanker.',
     indikation: 'Hemmungen, Mutlosigkeit, "Ich traue mich nicht", fehlender Antrieb für erwünschtes Verhalten',
     dauer: '25–40 Min.',
@@ -1059,7 +1059,7 @@ export const interventions = [
   {
     id: 'blockaden-aufloesen',
     titel: 'Blockaden auflösen',
-    quelle: 'Richard Bandler',
+    quelle: 'Nach (Richard Bandler)',
     kurzbeschreibung: 'Löst Unschlüssigkeit durch eine Kette von vier Zustandswechseln: Frustration, Ungeduld, Begehren, Darauf-Losgehen. Jeder Übergang wird als schneller Swish installiert.',
     indikation: 'Unschlüssigkeit, Lähmung, Hemmung, Prokrastination, fehlende Handlungsenergie',
     dauer: '20–35 Min.',
@@ -1078,7 +1078,7 @@ export const interventions = [
   {
     id: 'motivation',
     titel: 'Motivation stärken',
-    quelle: 'Connirae und Steve Andreas',
+    quelle: 'Nach (Connirae und Steve Andreas)',
     kurzbeschreibung: 'Überträgt die Submodalitäten einer motivierenden Zukunftsvision auf eine bisher unverbindliche Zukunftsvorstellung. Die neue Repräsentation löst automatisch Handeln aus.',
     indikation: 'Mangelnde Motivation, unklare Ziele, Vorsätze die nicht umgesetzt werden',
     dauer: '15–25 Min.',
@@ -1095,7 +1095,7 @@ export const interventions = [
   {
     id: 'kinaesthetischer-swish',
     titel: 'Kinästhetischer Swish',
-    quelle: 'Richard Bandler',
+    quelle: 'Nach (Richard Bandler)',
     kurzbeschreibung: 'Variante des Swish-Musters, die ausschließlich über Körpergefühle arbeitet. Geeignet für körpergefühlbasierte Zwänge oder Süchte.',
     indikation: 'Körperbezogene Zwänge, Suchtdruck, Impulse, Heißhunger',
     dauer: '15–25 Min.',
@@ -1111,7 +1111,7 @@ export const interventions = [
   {
     id: 'raucher-entwoehnung',
     titel: 'Raucher-Entwöhnung',
-    quelle: 'NLP-Tradition',
+    quelle: 'Nach (NLP-Tradition)',
     kurzbeschreibung: 'Konditioniert Rauchsituationen mit Ekel und Nichtrauchen mit Wohlbefinden durch Submodalitäten-Transfer. Schnelle Technik zur Motivationsverankerung.',
     indikation: 'Rauchen aufhören, unerwünschte Gewohnheiten verändern',
     dauer: '15–25 Min.',
@@ -1127,7 +1127,7 @@ export const interventions = [
   {
     id: 'swish-mit-glaubenssaetzen',
     titel: 'Swish mit Glaubenssätzen',
-    quelle: 'Richard Bandler',
+    quelle: 'Nach (Richard Bandler)',
     kurzbeschreibung: 'Zieht einen einschränkenden Glaubenssatz durch die Submodalitäten des Zweifels und ersetzt ihn durch einen unterstützenden Glaubenssatz.',
     indikation: 'Einschränkende Überzeugungen, "ich kann nicht", "das geht nicht", hartnäckige negative Glaubenssätze',
     dauer: '20–30 Min.',
@@ -1145,7 +1145,7 @@ export const interventions = [
   {
     id: 'konstruktion-von-glaubenssaetzen',
     titel: 'Konstruktion von Glaubenssätzen',
-    quelle: 'Richard Bandler',
+    quelle: 'Nach (Richard Bandler)',
     kurzbeschreibung: 'Baut einen neuen unterstützenden Glaubenssatz durch visuelle Ankertechnik auf. Das neue Bild wird vom Horizont in die Position des absoluten Glaubens gezogen.',
     indikation: 'Fehlende Überzeugungen, mangelndes Vertrauen in eigene Fähigkeiten, neue Ressourcen verankern',
     dauer: '20–35 Min.',
@@ -1162,7 +1162,7 @@ export const interventions = [
   {
     id: 'abbau-autoritaetsangst',
     titel: 'Abbau von Autoritätsangst',
-    quelle: 'Richard Bandler',
+    quelle: 'Nach (Richard Bandler)',
     kurzbeschreibung: 'Überwindet Autoritätsangst durch Übertragung der Submodalitäten interner Referenz auf die Wahrnehmung von Autoritätspersonen.',
     indikation: 'Angst vor Vorgesetzten, Eltern, Lehrern, Behörden; übermäßige Einschüchterung durch Autoritäten',
     dauer: '15–25 Min.',
@@ -1178,7 +1178,7 @@ export const interventions = [
   {
     id: 'abbau-zwanghafter-altruismus',
     titel: 'Abbau von zwanghaftem Altruismus',
-    quelle: 'Richard Bandler',
+    quelle: 'Nach (Richard Bandler)',
     kurzbeschreibung: 'Stellt eigene Bedürfnisse gleichwertig neben die Bedürfnisse anderer durch visuelle Umgestaltung der inneren Repräsentation. Gesunde Eigenverantwortung wird gestärkt.',
     indikation: 'Übermäßige Hilfsbereitschaft, Selbstaufopferung, Cannot say no, Verlust eigener Bedürfnisse',
     dauer: '15–25 Min.',
@@ -1195,7 +1195,7 @@ export const interventions = [
   {
     id: 'compulsion-blowout',
     titel: 'Compulsion-Blowout',
-    quelle: 'Connirae und Steve Andreas',
+    quelle: 'Nach (Connirae und Steve Andreas)',
     kurzbeschreibung: 'Löst einen Zwang durch extreme Intensivierung einer Submodalität bis die Reaktion zusammenbricht. Anschließend Swish zur Neuausrichtung.',
     indikation: 'Zwanghafte Reaktionen, Impulse, Drang, starke Konditionierungen',
     dauer: '20–35 Min.',
@@ -1213,7 +1213,7 @@ export const interventions = [
   {
     id: 'selbstheilung',
     titel: 'Selbstheilung – Reimprinting auf der Bodentimeline',
-    quelle: 'Achim Mohl',
+    quelle: 'Nach (Achim Mohl)',
     kurzbeschreibung: 'Arbeitet mit prägenden Erfahrungen auf einer räumlichen Bodenzeitlinie. Ressourcen werden auf das jüngere Selbst und beteiligte Personen übertragen.',
     indikation: 'Tiefe Prägungen, Kindheitserfahrungen, einschränkende Glaubenssätze aus frühen Erlebnissen',
     dauer: '60–90 Min.',
@@ -1234,7 +1234,7 @@ export const interventions = [
   {
     id: 'resonanz-muster',
     titel: 'Resonanz-Muster',
-    quelle: 'Achim Mohl',
+    quelle: 'Nach (Achim Mohl)',
     kurzbeschreibung: 'Verändert tiefe einschränkende Glaubenssätze durch die Botschaften von drei Mentoren. Geeignet, wenn einfaches Changing History nicht ausreicht.',
     indikation: 'Hochbelastete Prägeerfahrungen, tief verankerte Glaubenssätze, wenn andere Techniken nicht greifen',
     dauer: '60–90 Min.',
@@ -1253,7 +1253,7 @@ export const interventions = [
   {
     id: 'schamgefuehle-aendern',
     titel: 'Schamgefühle ändern',
-    quelle: 'Connirae und Steve Andreas',
+    quelle: 'Nach (Connirae und Steve Andreas)',
     kurzbeschreibung: 'Verändert intensive Schamreaktionen durch Submodalitäten-Transfer und anschließenden Decision Destroyer. Überprüft auch die zugrundeliegende Norm.',
     indikation: 'Intensive Scham, Beschämung, Schuldgefühle durch Normverletzung',
     dauer: '30–50 Min.',
@@ -1270,7 +1270,7 @@ export const interventions = [
   {
     id: 'alignment',
     titel: 'Alignment – Ressource durch neurologische Ebenen',
-    quelle: 'Robert Dilts',
+    quelle: 'Nach (Robert Dilts)',
     kurzbeschreibung: 'Entfaltet eine Ressource durch alle neurologischen Ebenen (Verhalten, Fähigkeiten, Überzeugungen, Identität, Zugehörigkeit) und trägt sie wieder zurück.',
     indikation: 'Fehlende Kongruenz, innere Widersprüche, Ressourcen die nicht zugänglich sind, Motivationsschwäche',
     dauer: '30–50 Min.',
@@ -1289,7 +1289,7 @@ export const interventions = [
   {
     id: 'einstreutechnik',
     titel: 'Einstreutechnik',
-    quelle: 'Milton H. Erickson',
+    quelle: 'Nach (Milton H. Erickson)',
     kurzbeschreibung: 'Bettet direkte Anweisungen durch analoges Markieren (Stimme, Geste, Berührung) in eine normale Unterhaltung ein. Das Unbewusste reagiert auf die markierten Anweisungen.',
     indikation: 'Wenn direkte Suggestionen Widerstand erzeugen; indirekte Kommunikation mit dem Unbewussten',
     dauer: '5–20 Min.',
@@ -1302,7 +1302,7 @@ export const interventions = [
   {
     id: 'trance-induktion-abruf',
     titel: 'Trance-Induktion auf Abruf',
-    quelle: 'Richard Bandler & John Grinder',
+    quelle: 'Nach (Richard Bandler & John Grinder)',
     kurzbeschreibung: 'Führt einen Klienten, der bereits Trance-Erfahrung hat, schnell in einen Trancezustand zurück. Verwendet die eigene Trance-Erinnerung als Induktionsmittel.',
     indikation: 'Beginn von Trancesitzungen; Klienten mit Trance-Vorerfahrung',
     dauer: '10–20 Min.',
@@ -1320,7 +1320,7 @@ export const interventions = [
   {
     id: 'trance-induktion-haendeschuetteln',
     titel: 'Trance-Induktion durch Händeschütteln',
-    quelle: 'Richard Bandler & John Grinder',
+    quelle: 'Nach (Richard Bandler & John Grinder)',
     kurzbeschreibung: 'Induziert Trance durch die Unterbrechung des automatischen Händeschüttelmusters. Ein klassisches Muster-Unterbrechungsverfahren nach Milton Erickson.',
     indikation: 'Schnelle Tranceinduktion; Demonstration; Klienten die rational Widerstand leisten',
     dauer: '5–10 Min.',
@@ -1335,7 +1335,7 @@ export const interventions = [
   {
     id: 'befragung-des-unbewussten',
     titel: 'Befragung des Unbewussten',
-    quelle: 'Agnes Kaiser Rekkas',
+    quelle: 'Nach (Agnes Kaiser Rekkas)',
     kurzbeschreibung: 'Stellt eine direkte Kommunikation mit dem Unbewussten durch ideomotorische Fingersignale her. Ermöglicht Ja/Nein-Antworten aus dem Unbewussten.',
     indikation: 'Zugang zum Unbewussten; wenn der Klient keine bewusste Antwort findet; Orientierung bei komplexen Themen',
     dauer: '20–40 Min.',
@@ -1351,7 +1351,7 @@ export const interventions = [
   {
     id: 'swish-in-trance',
     titel: 'Swish in Trance',
-    quelle: 'Richard Bandler',
+    quelle: 'Nach (Richard Bandler)',
     kurzbeschreibung: 'Intensiviert positive Ressourcen und Genussfähigkeit durch einen Swish in Trance. Klient springt in einen Ring wachsender Freude.',
     indikation: 'Ressourcenverstärkung in Trance, Genussblockaden, Lebensfreude stärken',
     dauer: '20–30 Min.',
@@ -1368,7 +1368,7 @@ export const interventions = [
   {
     id: 'verhandlungsmodell-trance',
     titel: 'Verhandlungsmodell in Trance',
-    quelle: 'Achim Mohl',
+    quelle: 'Nach (Achim Mohl)',
     kurzbeschreibung: 'Löst innere Konflikte zwischen zwei oder mehr Persönlichkeitsanteilen in Trance durch strukturierte Verhandlung mit Fingersignalen.',
     indikation: 'Innere Konflikte, Ambivalenz, Teile die sich gegenseitig blockieren',
     dauer: '40–70 Min.',
@@ -1385,7 +1385,7 @@ export const interventions = [
   {
     id: 'core-reframing-trance',
     titel: 'Core-Reframing in Trance',
-    quelle: 'Achim Mohl',
+    quelle: 'Nach (Achim Mohl)',
     kurzbeschreibung: 'Kombiniert das Sixstep-Reframing mit der Core-Transformation in Trance. Führt den beteiligten Teil durch eine Ergebniskette bis zum Core-Zustand.',
     indikation: 'Problemverhalten mit tiefem Kern, wenn Sixstep-Reframing nicht ausreicht, Verhaltenssucht',
     dauer: '60–90 Min.',
@@ -1403,7 +1403,7 @@ export const interventions = [
   {
     id: 'konfliktintegration-trance',
     titel: 'Konfliktintegration in Trance',
-    quelle: 'Achim Mohl',
+    quelle: 'Nach (Achim Mohl)',
     kurzbeschreibung: 'Visual Squash in Trance: Zwei konflikthafte innere Teile einigen sich auf Zugehörigkeit und neue Formen der Zusammenarbeit.',
     indikation: 'Tiefe Ambivalenzen, innere Konflikte die im wachen Zustand unzugänglich sind',
     dauer: '40–70 Min.',
@@ -1419,7 +1419,7 @@ export const interventions = [
   {
     id: 'ziele-erreichen-bodentimeline',
     titel: 'Ziele erreichen auf der Bodentimeline',
-    quelle: 'Tad James & Wyatt Woodsmall',
+    quelle: 'Nach (Tad James & Wyatt Woodsmall)',
     kurzbeschreibung: 'Integriert Zweifel und Widerstände gegen ein großes Ziel durch Arbeit auf der Bodenzeitlinie. Ressourcen und Mentoren werden entlang der Zeitlinie verankert.',
     indikation: 'Große langfristige Ziele mit inneren Widerständen, Zweifel an der Erreichbarkeit',
     dauer: '40–60 Min.',
@@ -1436,7 +1436,7 @@ export const interventions = [
   {
     id: 'schweben-ueber-timeline',
     titel: 'Schweben über der Timeline',
-    quelle: 'Tad James & Wyatt Woodsmall',
+    quelle: 'Nach (Tad James & Wyatt Woodsmall)',
     kurzbeschreibung: 'Gewinnt eine Übersicht über Vergangenheit und Zukunft aus einer erhöhten Perspektive. Ermöglicht entspannten Zugang zu Erinnerungen und Zukunftsvision.',
     indikation: 'Schwierigkeiten beim Perspektivwechsel, fehlende Übersicht, Ressourcenarbeit mit der Timeline',
     dauer: '20–35 Min.',
@@ -1453,7 +1453,7 @@ export const interventions = [
   {
     id: 'change-history-bodentimeline',
     titel: 'Change History auf der Bodentimeline',
-    quelle: 'Tad James & Wyatt Woodsmall',
+    quelle: 'Nach (Tad James & Wyatt Woodsmall)',
     kurzbeschreibung: 'Verändert eine Kette belastender Erfahrungen durch Ressourcenübertragung auf der räumlichen Bodenzeitlinie.',
     indikation: 'Wiederkehrende Muster durch Kettenerfahrungen, Prägungen, die sich durch das Leben ziehen',
     dauer: '30–50 Min.',
@@ -1470,7 +1470,7 @@ export const interventions = [
   {
     id: 'wahrnehmungswechsel-einschlaf',
     titel: 'Wahrnehmungswechsel bei Einschlafstörungen',
-    quelle: 'Achim Mohl',
+    quelle: 'Nach (Achim Mohl)',
     kurzbeschreibung: 'Unterbricht belastende Gedanken- oder Bildschleifen beim Einschlafen durch gezielten Wechsel des Wahrnehmungskanals.',
     indikation: 'Einschlafstörungen, Gedankenkarussell beim Einschlafen, innere Unruhe nachts',
     dauer: '10–15 Min.',
@@ -1484,7 +1484,7 @@ export const interventions = [
   {
     id: 'unangemessene-aengste',
     titel: 'Unangemessene Ängste überwinden',
-    quelle: 'Achim Mohl',
+    quelle: 'Nach (Achim Mohl)',
     kurzbeschreibung: 'Verändert Angstreaktionen in Situationen ohne reale Gefahr durch Bewusstsein der Angststrategie und gezielte Unterbrechung im auslösenden Repräsentationssystem.',
     indikation: 'Situationsangst ohne reale Gefahr, soziale Angst, Bewertungsangst, Prüfungsangst',
     dauer: '15–25 Min.',
@@ -1499,7 +1499,7 @@ export const interventions = [
   {
     id: 'angst-und-furcht-aendern',
     titel: 'Angst und Furcht ändern',
-    quelle: 'Tad James & Wyatt Woodsmall',
+    quelle: 'Nach (Tad James & Wyatt Woodsmall)',
     kurzbeschreibung: 'Löst Zukunftsangst vor einem bevorstehenden Ereignis durch Schweben auf der Timeline hinter das Ereignis und Zurückschauen auf einen erfolgreichen Abschluss.',
     indikation: 'Zukunftsangst, bevorstehende Ereignisse die Angst auslösen, Prüfungsangst, Auftrittsangst',
     dauer: '15–25 Min.',
