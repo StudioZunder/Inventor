@@ -32,8 +32,7 @@ function render() {
 function buildHTML() {
   return `
     <header class="app-header">
-      <h1>NLP Interventionen</h1>
-      <div class="subtitle">nach Alexa Mohl – Der große Zauberlehrling</div>
+      <h1>NLP-Inventor</h1>
     </header>
 
     ${buildSearchScreen()}
@@ -65,6 +64,13 @@ function buildSearchScreen() {
       <div class="quick-picks-label">Häufige Themen</div>
       <div class="quick-chips">
         ${quickPicks.map(p => `<button class="chip" data-pick="${escapeHtml(p)}">${escapeHtml(p)}</button>`).join('')}
+      </div>
+    </div>
+
+    <div class="quick-picks" style="margin-top:28px;">
+      <div class="quick-picks-label">Interventionen</div>
+      <div class="quick-chips">
+        ${interventions.map(i => `<button class="chip chip-intervention" data-intervention-direct="${i.id}">${escapeHtml(i.titel)}</button>`).join('')}
       </div>
     </div>
   </section>`;
@@ -160,7 +166,7 @@ function buildSessionScreen() {
 
   const coachNote = step.coach && step.coach !== '(Kein Text an den Klienten – Coach-Schritt)'
     ? `<div class="coach-note">
-        <div class="coach-note-tag">Hinweis für den Coach</div>
+        <div class="coach-note-tag">Hinweis für den Anwender</div>
         ${escapeHtml(step.coach)}
       </div>`
     : '';
@@ -253,6 +259,13 @@ function attachEvents() {
     chip.addEventListener('click', () => {
       const d = disorders.find(x => x.id === chip.dataset.disorderId);
       if (d) selectDisorder(d);
+    });
+  });
+
+  document.querySelectorAll('.chip[data-intervention-direct]').forEach(chip => {
+    chip.addEventListener('click', () => {
+      const intervention = interventions.find(i => i.id === chip.dataset.interventionDirect);
+      if (intervention) startSession(intervention);
     });
   });
 

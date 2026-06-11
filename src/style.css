@@ -43,16 +43,10 @@ body {
   margin-bottom: 40px;
 }
 .app-header h1 {
-  font-size: 1rem;
+  font-size: 2rem;
   font-weight: normal;
-  letter-spacing: 0.08em;
-  color: var(--text-muted);
-  text-transform: uppercase;
-}
-.app-header .subtitle {
-  font-size: 0.82rem;
-  color: var(--step-done);
-  margin-top: 5px;
+  letter-spacing: 0.04em;
+  color: var(--text);
 }
 
 /* Screens */
@@ -154,6 +148,16 @@ body {
   background: var(--accent-light);
   border-color: var(--accent);
   color: var(--accent-dark);
+}
+.chip-intervention {
+  background: var(--accent-light);
+  border-color: #c0d9d3;
+  color: var(--accent-dark);
+}
+.chip-intervention:hover {
+  background: var(--accent);
+  color: #fff;
+  border-color: var(--accent);
 }
 
 /* Results Screen */
