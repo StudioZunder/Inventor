@@ -46,7 +46,7 @@ function buildSearchScreen() {
   return `
   <section class="screen ${isActive ? 'active' : ''}" id="screen-search">
     <p class="search-label">Womit kommt der Klient heute?</p>
-    <p class="search-sublabel">Gib ein Stichwort ein – die App schlägt passende NLP-Interventionen vor.</p>
+    <p class="search-sublabel">Gib ein Stichwort ein – es werden passende NLP-Interventionen vorgeschlagen.</p>
 
     <div class="search-input-wrap">
       <input
