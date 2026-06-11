@@ -32,7 +32,7 @@ function render() {
 function buildHTML() {
   return `
     <header class="app-header">
-      <h1>NLP-Inventor</h1>
+      <img src="inventor-logo.webp" alt="Inventor" class="app-logo" />
     </header>
 
     ${buildSearchScreen()}
