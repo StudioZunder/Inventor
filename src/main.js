@@ -201,13 +201,15 @@ function buildSessionScreen() {
     </div>
 
     <div class="step-nav">
-      <button class="btn btn-secondary" id="btn-prev" ${currentIdx === 0 ? 'disabled' : ''}>
-        ← Zurück
-      </button>
-      <span class="step-nav-counter">${currentIdx + 1} / ${steps.length}</span>
-      <button class="btn btn-primary" id="btn-next">
-        ${currentIdx === steps.length - 1 ? 'Abschließen' : 'Weiter →'}
-      </button>
+      <div class="step-nav-counter">${currentIdx + 1} / ${steps.length}</div>
+      <div class="step-nav-buttons">
+        <button class="btn btn-secondary" id="btn-prev" ${currentIdx === 0 ? 'disabled' : ''}>
+          ← Zurück
+        </button>
+        <button class="btn btn-primary" id="btn-next">
+          ${currentIdx === steps.length - 1 ? 'Abschließen' : 'Weiter →'}
+        </button>
+      </div>
     </div>
   </section>`;
 }

@@ -345,12 +345,24 @@ body {
 /* Navigation */
 .step-nav {
   display: flex;
-  justify-content: space-between;
-  align-items: center;
+  flex-direction: column;
+  gap: 10px;
 }
 .step-nav-counter {
   font-size: 0.82rem;
   color: var(--text-muted);
+  text-align: center;
+}
+.step-nav-buttons {
+  display: flex;
+  gap: 10px;
+}
+.step-nav-buttons .btn-secondary {
+  flex: 0 0 auto;
+  min-width: 90px;
+}
+.step-nav-buttons .btn-primary {
+  flex: 1;
 }
 
 /* End screen */
